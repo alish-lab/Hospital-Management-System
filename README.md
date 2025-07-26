@@ -38,3 +38,9 @@ ConsoleApplication18.exe
 - All data is stored in plain text files in the executable directory.
 - For first use, create empty text files as needed (e.g., `logincredentials.txt`, `id_count.txt` with a starting value of 0).
 - Do not share sensitive data as files are not encrypted.
+
+## Authors
+- [Your Name Here]
+
+---
+This project is for educational/demo purposes only. 
