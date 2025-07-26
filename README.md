@@ -1,4 +1,3 @@
-# Hospital-Management-System
 # Hospital Management System
 
 A simple C++ console-based Hospital Management System for managing patients, doctors, nurses, and medical records.
